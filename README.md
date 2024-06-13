@@ -1,1 +1,2 @@
-All The Codes of the KNN
+# KNN
+Learn KNN And its types
